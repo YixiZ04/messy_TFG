@@ -65,4 +65,3 @@ def process_column_data (df, save_filename):
     return df
 save_filename = "C:/Users/leonz/Github_reps/TFG_git/RepoRT_trials/RepoRT_column_data/RepoRT_column_updated_metadata.tsv"
 df = process_column_data(df, save_filename)
-
